@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ALMUNO\\Desktop\\no borrar pls\\F_Programacion_zap1216_25-1\\P001_Hola_Mundo\\",
+  "WorkspaceRootPath": "C:\\Users\\ALUMNO\\source\\repos\\F_Programacion_zap1216_25-1\\P001_Hola_Mundo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FECEB6A2-ED9B-4853-ADC2-5250BC3996A4}|P001_Hola_Mundo\\P001_Hola_Mundo.vcxproj|C:\\Users\\ALMUNO\\Desktop\\no borrar pls\\F_Programacion_zap1216_25-1\\P001_Hola_Mundo\\P001_Hola_Mundo\\P001_Hola_Mundo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{FECEB6A2-ED9B-4853-ADC2-5250BC3996A4}|P001_Hola_Mundo\\P001_Hola_Mundo.vcxproj|C:\\Users\\ALUMNO\\source\\repos\\F_Programacion_zap1216_25-1\\P001_Hola_Mundo\\P001_Hola_Mundo\\P001_Hola_Mundo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FECEB6A2-ED9B-4853-ADC2-5250BC3996A4}|P001_Hola_Mundo\\P001_Hola_Mundo.vcxproj|solutionrelative:P001_Hola_Mundo\\P001_Hola_Mundo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "P001_Hola_Mundo.cpp",
-              "DocumentMoniker": "C:\\Users\\ALMUNO\\Desktop\\no borrar pls\\F_Programacion_zap1216_25-1\\P001_Hola_Mundo\\P001_Hola_Mundo\\P001_Hola_Mundo.cpp",
+              "DocumentMoniker": "C:\\Users\\ALUMNO\\source\\repos\\F_Programacion_zap1216_25-1\\P001_Hola_Mundo\\P001_Hola_Mundo\\P001_Hola_Mundo.cpp",
               "RelativeDocumentMoniker": "P001_Hola_Mundo\\P001_Hola_Mundo.cpp",
-              "ToolTip": "C:\\Users\\ALMUNO\\Desktop\\no borrar pls\\F_Programacion_zap1216_25-1\\P001_Hola_Mundo\\P001_Hola_Mundo\\P001_Hola_Mundo.cpp",
+              "ToolTip": "C:\\Users\\ALUMNO\\source\\repos\\F_Programacion_zap1216_25-1\\P001_Hola_Mundo\\P001_Hola_Mundo\\P001_Hola_Mundo.cpp",
               "RelativeToolTip": "P001_Hola_Mundo\\P001_Hola_Mundo.cpp",
-              "ViewState": "AQIAABoAAAAAAAAAAAAkwEAAAAAqAAAA",
+              "ViewState": "AQIAACoAAAAAAAAAAADwv1EAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-23T13:36:18.806Z",
               "EditorCaption": ""
