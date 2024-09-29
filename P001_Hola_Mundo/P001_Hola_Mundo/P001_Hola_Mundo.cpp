@@ -63,7 +63,7 @@ int main()
     std::cout << "Mides " << Altura << std::endl;
     std::cout << "Tu sexo es " << sexo << std::endl;
     std::cout << "Y te llamas " << name << ". Super! Bienvenido <3" << std::endl;
-    std::cout << "Mi nombre es " << nombre << "muito gusto." << std::endl;
+    std::cout << "Mi nombre es " << nombre << ", mucho gusto." << std::endl;
     std::cout << "Yo puedo calcular muchas cosas, que tal si me das 2 numeros y probamos." << std::endl;
     std::cout << "Numero 1: " << std::endl;
     std::cin >> n1;
