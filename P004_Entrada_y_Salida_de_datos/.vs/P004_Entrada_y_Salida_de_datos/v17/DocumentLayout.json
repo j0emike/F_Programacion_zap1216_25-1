@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\j0emi\\Desktop\\Amerike\\Fundamentos de Programacion 2024 Ago-Dic\\Proyectos\\P004_Entrada_y_Salida_de_datos\\",
+  "WorkspaceRootPath": "C:\\Users\\ALMUNO\\OneDrive\\Escritorio\\tampoco borrar pls\\zap1216\\F_Programacion_zap1216_25-1\\P004_Entrada_y_Salida_de_datos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{75ECFB95-5438-439E-9040-7BDA131758C6}|P004_Entrada_y_Salida_de_datos\\P004_Entrada_y_Salida_de_datos.vcxproj|C:\\Users\\j0emi\\Desktop\\Amerike\\Fundamentos de Programacion 2024 Ago-Dic\\Proyectos\\P004_Entrada_y_Salida_de_datos\\P004_Entrada_y_Salida_de_datos\\P004_Entrada_y_Salida_de_datos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{75ECFB95-5438-439E-9040-7BDA131758C6}|P004_Entrada_y_Salida_de_datos\\P004_Entrada_y_Salida_de_datos.vcxproj|C:\\Users\\ALMUNO\\OneDrive\\Escritorio\\tampoco borrar pls\\zap1216\\F_Programacion_zap1216_25-1\\P004_Entrada_y_Salida_de_datos\\P004_Entrada_y_Salida_de_datos\\P004_Entrada_y_Salida_de_datos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{75ECFB95-5438-439E-9040-7BDA131758C6}|P004_Entrada_y_Salida_de_datos\\P004_Entrada_y_Salida_de_datos.vcxproj|solutionrelative:P004_Entrada_y_Salida_de_datos\\P004_Entrada_y_Salida_de_datos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -14,21 +14,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "P004_Entrada_y_Salida_de_datos.cpp",
-              "DocumentMoniker": "C:\\Users\\j0emi\\Desktop\\Amerike\\Fundamentos de Programacion 2024 Ago-Dic\\Proyectos\\P004_Entrada_y_Salida_de_datos\\P004_Entrada_y_Salida_de_datos\\P004_Entrada_y_Salida_de_datos.cpp",
+              "DocumentMoniker": "C:\\Users\\ALMUNO\\OneDrive\\Escritorio\\tampoco borrar pls\\zap1216\\F_Programacion_zap1216_25-1\\P004_Entrada_y_Salida_de_datos\\P004_Entrada_y_Salida_de_datos\\P004_Entrada_y_Salida_de_datos.cpp",
               "RelativeDocumentMoniker": "P004_Entrada_y_Salida_de_datos\\P004_Entrada_y_Salida_de_datos.cpp",
-              "ToolTip": "C:\\Users\\j0emi\\Desktop\\Amerike\\Fundamentos de Programacion 2024 Ago-Dic\\Proyectos\\P004_Entrada_y_Salida_de_datos\\P004_Entrada_y_Salida_de_datos\\P004_Entrada_y_Salida_de_datos.cpp",
+              "ToolTip": "C:\\Users\\ALMUNO\\OneDrive\\Escritorio\\tampoco borrar pls\\zap1216\\F_Programacion_zap1216_25-1\\P004_Entrada_y_Salida_de_datos\\P004_Entrada_y_Salida_de_datos\\P004_Entrada_y_Salida_de_datos.cpp",
               "RelativeToolTip": "P004_Entrada_y_Salida_de_datos\\P004_Entrada_y_Salida_de_datos.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAiAAAAAAAAAA==",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAACIAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-07T03:37:34.666Z",
               "EditorCaption": ""

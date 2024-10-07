@@ -77,5 +77,6 @@ int main()
     std::cout << "La raiz cuadrada de " << n2 << " seria " << sqrt(n2) << std::endl;
     std::cout << "Si elevamos al cuadrado " << n1 << " seria " << pow(n1, 2) << std::endl;
     std::cout << "Si elevamos al cuadrado " << n2 << " seria " << pow(n2, 2) << std::endl;
+    //Llevar a una P005 Porque lo tengo que tener en el repo
 }
 

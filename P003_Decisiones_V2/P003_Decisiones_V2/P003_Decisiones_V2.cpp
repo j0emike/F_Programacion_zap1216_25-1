@@ -51,5 +51,6 @@ int main()
         std::cout << "Esta opcion sale de los rangos permitidos \n";
         break;
     }
+    //Hacer otras 5 decisiones
 }
 

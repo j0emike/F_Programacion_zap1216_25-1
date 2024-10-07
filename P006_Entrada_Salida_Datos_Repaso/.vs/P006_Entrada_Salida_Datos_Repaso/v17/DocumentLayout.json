@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ALMUNO\\OneDrive\\Escritorio\\tampoco borrar pls\\zap1216\\F_Programacion_zap1216_25-1\\P006_Entrada_Salida_Datos_Repaso\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DED29D8-8F89-445D-8A7D-CF2ABA851219}|P006_Entrada_Salida_Datos_Repaso\\P006_Entrada_Salida_Datos_Repaso.vcxproj|C:\\Users\\ALMUNO\\OneDrive\\Escritorio\\tampoco borrar pls\\zap1216\\F_Programacion_zap1216_25-1\\P006_Entrada_Salida_Datos_Repaso\\P006_Entrada_Salida_Datos_Repaso\\P006_Entrada_Salida_Datos_Repaso.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1DED29D8-8F89-445D-8A7D-CF2ABA851219}|P006_Entrada_Salida_Datos_Repaso\\P006_Entrada_Salida_Datos_Repaso.vcxproj|solutionrelative:P006_Entrada_Salida_Datos_Repaso\\P006_Entrada_Salida_Datos_Repaso.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P006_Entrada_Salida_Datos_Repaso.cpp",
+              "DocumentMoniker": "C:\\Users\\ALMUNO\\OneDrive\\Escritorio\\tampoco borrar pls\\zap1216\\F_Programacion_zap1216_25-1\\P006_Entrada_Salida_Datos_Repaso\\P006_Entrada_Salida_Datos_Repaso\\P006_Entrada_Salida_Datos_Repaso.cpp",
+              "RelativeDocumentMoniker": "P006_Entrada_Salida_Datos_Repaso\\P006_Entrada_Salida_Datos_Repaso.cpp",
+              "ToolTip": "C:\\Users\\ALMUNO\\OneDrive\\Escritorio\\tampoco borrar pls\\zap1216\\F_Programacion_zap1216_25-1\\P006_Entrada_Salida_Datos_Repaso\\P006_Entrada_Salida_Datos_Repaso\\P006_Entrada_Salida_Datos_Repaso.cpp",
+              "RelativeToolTip": "P006_Entrada_Salida_Datos_Repaso\\P006_Entrada_Salida_Datos_Repaso.cpp",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADUAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-07T14:04:57.425Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
