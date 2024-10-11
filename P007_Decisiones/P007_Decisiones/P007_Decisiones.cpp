@@ -9,7 +9,7 @@ int main()
     std::cout << "Dime tu numero de peleadores " << std::endl;
     std::cin >> peleadores;
     std::cout << "Dime el formato de pelea: " << std::endl;
-    std::cout << "1.- Royal Rumble  2.- Eliminatoria directa  3.- Grupos, Semifinal y final. " << std::endl;
+    std::cout << "1.- Royal Rumble  2.- Eliminatoria directa  3.- Grupos, Semifinal y Final. " << std::endl;
     std::cin >> formato;
     switch (formato)
     {
@@ -33,6 +33,7 @@ int main()
         }
         break;
     default:
+        std::cout << "Ese no es un formato valido." << std::endl;
         break;
     }
 }
