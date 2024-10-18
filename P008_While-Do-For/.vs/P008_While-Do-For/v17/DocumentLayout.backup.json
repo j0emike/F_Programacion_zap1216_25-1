@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ALUMNO\\Desktop\\NOBORRARPLS\\F_Programacion_zap1216_25-1\\P008_While-Do-For\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3903C5D-BA63-46F9-BCDE-E8DD32267AA9}|P008_While-Do-For\\P008_While-Do-For.vcxproj|C:\\Users\\ALUMNO\\Desktop\\NOBORRARPLS\\F_Programacion_zap1216_25-1\\P008_While-Do-For\\P008_While-Do-For\\P008_While-Do-For.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E3903C5D-BA63-46F9-BCDE-E8DD32267AA9}|P008_While-Do-For\\P008_While-Do-For.vcxproj|solutionrelative:P008_While-Do-For\\P008_While-Do-For.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P008_While-Do-For.cpp",
+              "DocumentMoniker": "C:\\Users\\ALUMNO\\Desktop\\NOBORRARPLS\\F_Programacion_zap1216_25-1\\P008_While-Do-For\\P008_While-Do-For\\P008_While-Do-For.cpp",
+              "RelativeDocumentMoniker": "P008_While-Do-For\\P008_While-Do-For.cpp",
+              "ToolTip": "C:\\Users\\ALUMNO\\Desktop\\NOBORRARPLS\\F_Programacion_zap1216_25-1\\P008_While-Do-For\\P008_While-Do-For\\P008_While-Do-For.cpp",
+              "RelativeToolTip": "P008_While-Do-For\\P008_While-Do-For.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-18T13:44:53.931Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
