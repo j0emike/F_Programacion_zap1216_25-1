@@ -23,6 +23,9 @@ int main()
 		std::cin >> op;
 		switch (op)
 		{
+		case 0:
+			std::cout << "Gracias." << std::endl;
+			break;
 		case 1:
 			std::cout << "Dame 2 numeros" << std::endl;
 			std::cout << "Numero 1" << std::endl;
@@ -30,6 +33,7 @@ int main()
 			std::cout << "Numero 2" << std::endl;
 			std::cin >> n2;
 			std::cout << "Su suma es " << n1 + n2 << std::endl;
+			break;
 		case 2:
 			std::cout << "Dame 2 numeros" << std::endl;
 			std::cout << "Numero 1" << std::endl;
@@ -37,6 +41,7 @@ int main()
 			std::cout << "Numero 2" << std::endl;
 			std::cin >> n2;
 			std::cout << "Su resta es " << n1 - n2 << std::endl;
+			break;
 		case 3:
 			std::cout << "Dame 2 numeros" << std::endl;
 			std::cout << "Numero 1" << std::endl;
@@ -44,6 +49,7 @@ int main()
 			std::cout << "Numero 2" << std::endl;
 			std::cin >> n2;
 			std::cout << "Su multiplicacion es " << n1 * n2 << std::endl;
+			break;
 		case 4:
 			std::cout << "Dame 2 numeros" << std::endl;
 			std::cout << "Numero 1" << std::endl;
@@ -51,14 +57,41 @@ int main()
 			std::cout << "Numero 2" << std::endl;
 			std::cin >> n2;
 			std::cout << "Su division es " << n1 / n2 << std::endl;
+			break;
 		case 5:
+			std::cout << "Dame 1 numeros" << std::endl;
+			std::cout << "Numero: " << std::endl;
+			std::cin >> n1;
+			if (n1 < 0)
+			{
+				std::cout << "El valor absoluto de tu numero es " << n1 * (-1) << std::endl;
+			}
+			else
+			{
+				std::cout << "El valor absoluto de tu numero es " << n1 << std::endl;
+			}
+			break;
+		case 6:
 			std::cout << "Dame 2 numeros" << std::endl;
 			std::cout << "Numero 1" << std::endl;
 			std::cin >> n1;
 			std::cout << "Numero 2" << std::endl;
 			std::cin >> n2;
-			std::cout << "Su resta es " << n1 - n2 << std::endl;
+			if (n1 < n2)
+			{
+				std::cout << "El numero " << n2 << " es mayor a " << n1 << std::endl;
+			}
+			else if (n1 > n2)
+			{
+				std::cout << "El numero " << n1 << " es mayor a " << n2 << std::endl;
+			}
+			else
+			{
+				std::cout << "Ambos numeros son iguales." << std::endl;
+			}
+			break;
 		default:
+			std::cout << "Opcion invalida." << std::endl;
 			break;
 		}
 	} while (op != 0);
