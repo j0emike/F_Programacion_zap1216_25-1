@@ -1,4 +1,2 @@
 ﻿  P010_Condicionales.cpp
-C:\Users\ALUMNO\Desktop\NOBORRARPLS\F_Programacion_zap1216_25-1\P010_Condicionales\P010_Condicionales\P010_Condicionales.cpp(56,67): warning C4805: '!=': combinación no segura del tipo 'int' y el tipo 'bool' en la operación
-C:\Users\ALUMNO\Desktop\NOBORRARPLS\F_Programacion_zap1216_25-1\P010_Condicionales\P010_Condicionales\P010_Condicionales.cpp(77,39): warning C4805: '!=': combinación no segura del tipo 'int' y el tipo 'bool' en la operación
-  P010_Condicionales.vcxproj -> C:\Users\ALUMNO\Desktop\NOBORRARPLS\F_Programacion_zap1216_25-1\P010_Condicionales\x64\Debug\P010_Condicionales.exe
+  P010_Condicionales.vcxproj -> C:\Users\j0emi\Desktop\Amerike\Fundamentos de Programacion 2024 Ago-Dic\Proyectos\P010_Condicionales\x64\Debug\P010_Condicionales.exe
