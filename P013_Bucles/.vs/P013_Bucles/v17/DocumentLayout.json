@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\j0emi\\Desktop\\Amerike\\Fundamentos de Programacion 2024 Ago-Dic\\Proyectos\\P013_Bucles\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD726582-FEF7-4B38-A74B-B6A6C84B2AB6}|P013_Bucles\\P013_Bucles.vcxproj|C:\\Users\\j0emi\\Desktop\\Amerike\\Fundamentos de Programacion 2024 Ago-Dic\\Proyectos\\P013_Bucles\\P013_Bucles\\P013_Bucles.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CD726582-FEF7-4B38-A74B-B6A6C84B2AB6}|P013_Bucles\\P013_Bucles.vcxproj|solutionrelative:P013_Bucles\\P013_Bucles.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P013_Bucles.cpp",
+              "DocumentMoniker": "C:\\Users\\j0emi\\Desktop\\Amerike\\Fundamentos de Programacion 2024 Ago-Dic\\Proyectos\\P013_Bucles\\P013_Bucles\\P013_Bucles.cpp",
+              "RelativeDocumentMoniker": "P013_Bucles\\P013_Bucles.cpp",
+              "ToolTip": "C:\\Users\\j0emi\\Desktop\\Amerike\\Fundamentos de Programacion 2024 Ago-Dic\\Proyectos\\P013_Bucles\\P013_Bucles\\P013_Bucles.cpp",
+              "RelativeToolTip": "P013_Bucles\\P013_Bucles.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-25T06:13:35.037Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
