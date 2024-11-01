@@ -2,7 +2,7 @@
 #include <string>
 #include <vector>
 #include <cstdlib> // Para srand(), Ivan nos recomendo usar ese
-#include <ctime>   // Para time()
+#include <ctime>   // Para time(), necesario para que funcione el rand
 
 struct Pokemon {
     std::string nombre;
@@ -87,12 +87,12 @@ int main() {
                            {"Mewtwo", 1000, {"Psíquico", "Energibola", "Esfera Aural", "Triataque"}}
     };
 
-    Pokemon EquipoS[6] = { {"Metapod", 1, {"Fortaleza", "Fortaleza", "Fortaleza", "Fortaleza"}},
-                           {"Metapod", 1, {"Fortaleza", "Fortaleza", "Fortaleza", "Fortaleza"}},
-                           {"Metapod", 1, {"Fortaleza", "Fortaleza", "Fortaleza", "Fortaleza"}},
-                           {"Metapod", 1, {"Fortaleza", "Fortaleza", "Fortaleza", "Fortaleza"}},
-                           {"Metapod", 1, {"Fortaleza", "Fortaleza", "Fortaleza", "Fortaleza"}},
-                           {"Metapod", 1, {"Fortaleza", "Fortaleza", "Fortaleza", "Fortaleza"}}
+    Pokemon EquipoS[6] = { {"Metapod", 10, {"Fortaleza", "Fortaleza", "Fortaleza", "Fortaleza"}},
+                           {"Metapod", 10, {"Fortaleza", "Fortaleza", "Fortaleza", "Fortaleza"}},
+                           {"Metapod", 10, {"Fortaleza", "Fortaleza", "Fortaleza", "Fortaleza"}},
+                           {"Metapod", 10, {"Fortaleza", "Fortaleza", "Fortaleza", "Fortaleza"}},
+                           {"Metapod", 10, {"Fortaleza", "Fortaleza", "Fortaleza", "Fortaleza"}},
+                           {"Metapod", 10, {"Fortaleza", "Fortaleza", "Fortaleza", "Fortaleza"}}
     };
 
     Pokemon EquipoJ[6] = {
