@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ALUMNO\\Desktop\\NOBORRARPLS\\F_Programacion_zap1216_25-1\\Clase6_Arreglos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50DE41F6-A191-4048-9BFA-6B208DF5C8A7}|Clase6_Arreglos\\Clase6_Arreglos.vcxproj|C:\\Users\\ALUMNO\\Desktop\\NOBORRARPLS\\F_Programacion_zap1216_25-1\\Clase6_Arreglos\\Clase6_Arreglos\\Clase6_Arreglos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50DE41F6-A191-4048-9BFA-6B208DF5C8A7}|Clase6_Arreglos\\Clase6_Arreglos.vcxproj|solutionrelative:Clase6_Arreglos\\Clase6_Arreglos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Clase6_Arreglos.cpp",
+              "DocumentMoniker": "C:\\Users\\ALUMNO\\Desktop\\NOBORRARPLS\\F_Programacion_zap1216_25-1\\Clase6_Arreglos\\Clase6_Arreglos\\Clase6_Arreglos.cpp",
+              "RelativeDocumentMoniker": "Clase6_Arreglos\\Clase6_Arreglos.cpp",
+              "ToolTip": "C:\\Users\\ALUMNO\\Desktop\\NOBORRARPLS\\F_Programacion_zap1216_25-1\\Clase6_Arreglos\\Clase6_Arreglos\\Clase6_Arreglos.cpp",
+              "RelativeToolTip": "Clase6_Arreglos\\Clase6_Arreglos.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-01T14:14:01.639Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
