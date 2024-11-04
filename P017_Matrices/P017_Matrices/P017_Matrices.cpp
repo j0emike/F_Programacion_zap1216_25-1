@@ -4,20 +4,19 @@
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
+#include <iomanip>
+
 
 int main()
 {
-    static bool seedInitialized = false;
-    if (!seedInitialized) {
-        srand(static_cast<unsigned>(time(0)));
-        seedInitialized = true;
-    }
+    srand(static_cast<unsigned>(time(0)));
+
     int edades[3][2] = { {1,2},{9,8},{14,21} };
     int filas = (sizeof(edades) / sizeof(edades[0]));
     int columnas = (sizeof(edades[0]) / sizeof(edades[0][0]));
-    int matriz[3][3];
-    int matriz2[5][5];
-    int matriz3[10][10];
+    int matriz[3][3] = {};
+    int matriz2[5][5] = {};
+    int matriz3[10][10] = {};
     int opcion = 0;
 
     do
@@ -43,7 +42,7 @@ int main()
             {
                 for (int j = 0; j < 3; j++)
                 {
-                    std::cout << " " << matriz[i][j] << " ";
+                    std::cout << std::setw(4) << matriz[i][j] << " ";
                 }
                 std::cout << std::endl;
             }
@@ -62,11 +61,10 @@ int main()
             {
                 for (int j = 0; j < 5; j++)
                 {
-                    std::cout << " " << matriz2[i][j] << " ";
+                    std::cout << std::setw(4) << matriz2[i][j] << " ";
                 }
                 std::cout << std::endl;
             }
-            std::cout << std::endl;
             break;
         case 3:
             //10x10
@@ -81,7 +79,7 @@ int main()
             {
                 for (int j = 0; j < 10; j++)
                 {
-                    std::cout << " " << matriz3[i][j] << " ";
+                    std::cout << std::setw(4) << matriz3[i][j] << " ";
                 }
                 std::cout << std::endl;
             }
@@ -89,7 +87,7 @@ int main()
         case 4:
             for (int i = 0; i < 3; i++) {
                 for (int j = 0; j < 2; j++) {
-                    std::cout << " " << edades[i][j] << " ";
+                    std::cout << std::setw(8) << std::fixed << std::setprecision(2) << matriz[i][j] << " ";
                 }
                 std::cout << std::endl;
             }
