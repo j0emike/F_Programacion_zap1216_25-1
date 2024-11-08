@@ -18,6 +18,8 @@ int main()
     int matriz2[5][5] = {};
     int matriz3[10][10] = {};
     int opcion = 0;
+    //TO DO: En el llenado me falta decir que se imprimio en cada posicion
+
 
     do
     {

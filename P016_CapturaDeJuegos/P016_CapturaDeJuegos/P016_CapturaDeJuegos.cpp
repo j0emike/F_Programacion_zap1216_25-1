@@ -27,11 +27,12 @@ int main()
     std::cout << "Espero que te gusten, seria genial si tu tambien pudieras recomendarme 3: " << std::endl;
     for (int i = 0; i < 3; i++)
     {
-        std::cout << "Nombre del juego " << i << ": " << std::endl;
+        std::cout << "Nombre del juego " << i+1 << ": " << std::endl;
         std::cin >> nombreJuegos[i];
         std::cout << "Año de publicacion: " << std::endl;
         std::cin >> anioPublicacion[i];
         std::cout << "Autor: " << std::endl;
+        //Aqui iba un getline
         std::cin >> autor[i];
         std::cout << "Estudio: " << std::endl;
         std::cin >> studio[i];
