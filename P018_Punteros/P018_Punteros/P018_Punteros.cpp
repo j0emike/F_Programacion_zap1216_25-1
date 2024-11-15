@@ -1,53 +1,73 @@
 // P018_Punteros.cpp : by j0emike
 //
 
-#include <stdio.h>
 #include <iostream>
 #include <ctime>
 #include <locale>
-#include <Windows.h>
+#include <cstdlib>
 
 int main()
 {
-    //Fragmento para aleatorizar
+    // Fragmento para aleatorizar
     static bool seedInitialized = false;
     if (!seedInitialized) {
         srand(static_cast<unsigned>(time(0)));
         seedInitialized = true;
     }
 
-    //Poner caracteres españoles
-    setlocale(LC_ALL, "en_MX.UTF-8");
+    int tamanioFilas = 0;
+    int tamanioColumnas = 0;
 
-    //Crear punteros para almacenar juegos
-    int* filas = NULL;
-    int* columnas = NULL;
+    // Poner caracteres españoles
+    setlocale(LC_ALL, "es_ES.UTF-8");  
+
+    // Solicitar dimensiones de la matriz
     std::cout << "Hola usuario, dime las dimensiones de la matriz que deseas guardar" << std::endl;
-    std::cin >> tamanio;
+    std::cout << "Filas: ";
+    std::cin >> tamanioFilas;
+    std::cout << "Columnas: ";
+    std::cin >> tamanioColumnas;
 
-    //Crear variables con el tamaño que deseamos
-    int* filas = new int[tamanio];
-    //metodo para almacenar información
-    for (int i = 0; i < tamanio; i++)
-    {
-        std::cout << "Ingresa el titulo del Juego número " << i + 1 << std::endl;
-        std::cin.ignore();
-        getline(std::cin, titulo[i]);
-        std::cout << "Ingresa el autor del Juego; " << std::endl;
-        getline(std::cin, Autor[i]);
-        std::cout << "Ingresa el año de publicación del Juego; " << std::endl;
-        std::cin >> anio_Publicacion[i];
-        system("CLS");
+    // Crear una matriz dinámica de tamaño `tamanioFilas` x `tamanioColumnas`
+    int** matriz = new int* [tamanioFilas];
+    for (int i = 0; i < tamanioFilas; i++) {
+        matriz[i] = new int[tamanioColumnas];
     }
 
-    //Teoría/Practica de Funciones.
-    //Una función es una nave espacial
-    //Imprimir los datos recolectados
-    imprimir(titulo, Autor, anio_Publicacion, tamanio);
-    delete[] titulo;
-    delete[] Autor;
-    delete[] anio_Publicacion;
-    titulo = NULL;
-    Autor = NULL;
-    anio_Publicacion = NULL;
+    if (tamanioColumnas > 3 || tamanioFilas > 3)
+    {
+        // Llenar la matriz con valores aleatorios
+        for (int i = 0; i < tamanioFilas; i++) {
+            for (int j = 0; j < tamanioColumnas; j++) {
+                matriz[i][j] = rand() % 10;
+            }
+        }
+    }
+    else
+    {
+        std::cout << "Introduce los valores de la matriz (filas x columnas): " << std::endl;
+        for (int i = 0; i < tamanioFilas; i++) {
+            for (int j = 0; j < tamanioColumnas; j++) {
+                std::cout << "Introduce el valor de la posicion " << i << j << std::endl;
+                std::cin >> matriz[i][j];
+            }
+        }
+    }
+    
+    // Mostrar la matriz
+    std::cout << "Matriz generada:" << std::endl;
+    for (int i = 0; i < tamanioFilas; i++) {
+        for (int j = 0; j < tamanioColumnas; j++) {
+            std::cout << matriz[i][j] << " ";
+        }
+        std::cout << std::endl;
+    }
+
+    // Liberar la memoria de la matriz dinámica
+    for (int i = 0; i < tamanioFilas; i++) {
+        delete[] matriz[i];
+    }
+    delete[] matriz;
+
+    return 0;
 }
