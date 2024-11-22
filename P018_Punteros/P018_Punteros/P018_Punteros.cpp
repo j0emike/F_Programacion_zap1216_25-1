@@ -48,7 +48,7 @@ int main()
         std::cout << "Introduce los valores de la matriz (filas x columnas): " << std::endl;
         for (int i = 0; i < tamanioFilas; i++) {
             for (int j = 0; j < tamanioColumnas; j++) {
-                std::cout << "Introduce el valor de la posicion " << i << j << std::endl;
+                std::cout << "Introduce el valor de la fila " << i << " y la columna " << j << std::endl;
                 std::cin >> matriz[i][j];
             }
         }

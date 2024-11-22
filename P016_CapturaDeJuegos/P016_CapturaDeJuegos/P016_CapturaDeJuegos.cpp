@@ -4,6 +4,7 @@
 #include <iostream>
 #include <string>
 
+
 int main()
 {
     std::string nombreJuegos[3] = {"Metal Gear Solid: The Twin Snakes", "Death's Door", "Broforce"};
@@ -28,14 +29,14 @@ int main()
     for (int i = 0; i < 3; i++)
     {
         std::cout << "Nombre del juego " << i+1 << ": " << std::endl;
-        std::cin >> nombreJuegos[i];
+        std::getline(std::cin, nombreJuegos[i]);
         std::cout << "Año de publicacion: " << std::endl;
         std::cin >> anioPublicacion[i];
         std::cout << "Autor: " << std::endl;
-        //Aqui iba un getline
-        std::cin >> autor[i];
+        std::cin.ignore();
+        std::getline(std::cin, autor[i]);
         std::cout << "Estudio: " << std::endl;
-        std::cin >> studio[i];
+        std::getline(std::cin, studio[i]);
         std::cout << std::endl;
     }
 
