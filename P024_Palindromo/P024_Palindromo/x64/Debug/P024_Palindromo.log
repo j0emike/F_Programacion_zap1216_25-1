@@ -1,0 +1,3 @@
+﻿  P024_Palindromo.cpp
+C:\Users\ALUMNO\Desktop\NoMeBorresPorfis\F_Programacion_zap1216_25-1\P024_Palindromo\P024_Palindromo.cpp(7,16): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  P024_Palindromo.vcxproj -> C:\Users\ALUMNO\Desktop\NoMeBorresPorfis\F_Programacion_zap1216_25-1\P024_Palindromo\x64\Debug\P024_Palindromo.exe
