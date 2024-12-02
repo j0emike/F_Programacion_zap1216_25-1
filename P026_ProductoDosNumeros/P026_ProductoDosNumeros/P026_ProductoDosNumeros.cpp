@@ -2,9 +2,13 @@
 //
 
 #include <iostream>
-
-void productoNumeros(int n1, int n2) {
-    std::cout << "Tu resultado es: " << n1 * n2;
+int productoNumeros(int n1, int n2) {
+    if (n1 == 0 or n2 == 0)
+        return 0;
+    else
+    {
+        return n1 + productoNumeros(n1, n2 - 1);
+    }
 }
 
 int main()
@@ -15,5 +19,5 @@ int main()
     std::cin >> n1;
     std::cout << "Dime el segundo numero: " << std::endl;
     std::cin >> n2;
-    productoNumeros(n1,n2);
+    std::cout << productoNumeros(n1,n2);
 }
