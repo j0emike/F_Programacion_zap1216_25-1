@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\j0emi\\Desktop\\Amerike\\Fundamentos de Programacion 2024 Ago-Dic\\Proyectos\\P022_Decimal_a_Binario\\",
+  "WorkspaceRootPath": "C:\\Users\\ALUMNO\\Desktop\\NoMeBorresPorfis\\F_Programacion_zap1216_25-1\\P022_Decimal_a_Binario\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{39D866E5-E8DA-42F0-86F6-122079E4FD5B}|P022_Decimal_a_Binario\\P022_Decimal_a_Binario.vcxproj|C:\\Users\\j0emi\\Desktop\\Amerike\\Fundamentos de Programacion 2024 Ago-Dic\\Proyectos\\P022_Decimal_a_Binario\\P022_Decimal_a_Binario\\P022_Decimal_a_Binario.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{39D866E5-E8DA-42F0-86F6-122079E4FD5B}|P022_Decimal_a_Binario\\P022_Decimal_a_Binario.vcxproj|C:\\Users\\ALUMNO\\Desktop\\NoMeBorresPorfis\\F_Programacion_zap1216_25-1\\P022_Decimal_a_Binario\\P022_Decimal_a_Binario\\P022_Decimal_a_Binario.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{39D866E5-E8DA-42F0-86F6-122079E4FD5B}|P022_Decimal_a_Binario\\P022_Decimal_a_Binario.vcxproj|solutionrelative:P022_Decimal_a_Binario\\P022_Decimal_a_Binario.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "P022_Decimal_a_Binario.cpp",
-              "DocumentMoniker": "C:\\Users\\j0emi\\Desktop\\Amerike\\Fundamentos de Programacion 2024 Ago-Dic\\Proyectos\\P022_Decimal_a_Binario\\P022_Decimal_a_Binario\\P022_Decimal_a_Binario.cpp",
+              "DocumentMoniker": "C:\\Users\\ALUMNO\\Desktop\\NoMeBorresPorfis\\F_Programacion_zap1216_25-1\\P022_Decimal_a_Binario\\P022_Decimal_a_Binario\\P022_Decimal_a_Binario.cpp",
               "RelativeDocumentMoniker": "P022_Decimal_a_Binario\\P022_Decimal_a_Binario.cpp",
-              "ToolTip": "C:\\Users\\j0emi\\Desktop\\Amerike\\Fundamentos de Programacion 2024 Ago-Dic\\Proyectos\\P022_Decimal_a_Binario\\P022_Decimal_a_Binario\\P022_Decimal_a_Binario.cpp",
+              "ToolTip": "C:\\Users\\ALUMNO\\Desktop\\NoMeBorresPorfis\\F_Programacion_zap1216_25-1\\P022_Decimal_a_Binario\\P022_Decimal_a_Binario\\P022_Decimal_a_Binario.cpp",
               "RelativeToolTip": "P022_Decimal_a_Binario\\P022_Decimal_a_Binario.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-22T13:34:31.448Z",
               "EditorCaption": ""
