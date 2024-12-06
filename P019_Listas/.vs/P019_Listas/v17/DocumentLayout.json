@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\j0emi\\Desktop\\Amerike\\Fundamentos de Programacion 2024 Ago-Dic\\Proyectos\\P019_Listas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79BF8F85-EE85-4F1E-BDBA-A7358825EC79}|P019_Listas\\P019_Listas.vcxproj|C:\\Users\\j0emi\\Desktop\\Amerike\\Fundamentos de Programacion 2024 Ago-Dic\\Proyectos\\P019_Listas\\P019_Listas\\P019_Listas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79BF8F85-EE85-4F1E-BDBA-A7358825EC79}|P019_Listas\\P019_Listas.vcxproj|solutionrelative:P019_Listas\\P019_Listas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P019_Listas.cpp",
+              "DocumentMoniker": "C:\\Users\\j0emi\\Desktop\\Amerike\\Fundamentos de Programacion 2024 Ago-Dic\\Proyectos\\P019_Listas\\P019_Listas\\P019_Listas.cpp",
+              "RelativeDocumentMoniker": "P019_Listas\\P019_Listas.cpp",
+              "ToolTip": "C:\\Users\\j0emi\\Desktop\\Amerike\\Fundamentos de Programacion 2024 Ago-Dic\\Proyectos\\P019_Listas\\P019_Listas\\P019_Listas.cpp",
+              "RelativeToolTip": "P019_Listas\\P019_Listas.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-06T05:54:15.115Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

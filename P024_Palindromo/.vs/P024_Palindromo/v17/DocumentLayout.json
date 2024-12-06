@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ALUMNO\\Desktop\\NoMeBorresPorfis\\F_Programacion_zap1216_25-1\\P024_Palindromo\\",
+  "WorkspaceRootPath": "C:\\Users\\j0emi\\Desktop\\Amerike\\Fundamentos de Programacion 2024 Ago-Dic\\Proyectos\\P024_Palindromo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8DB1FA09-05ED-45BB-B615-49BD1945074E}|P024_Palindromo.vcxproj|C:\\Users\\ALUMNO\\Desktop\\NoMeBorresPorfis\\F_Programacion_zap1216_25-1\\P024_Palindromo\\P024_Palindromo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8DB1FA09-05ED-45BB-B615-49BD1945074E}|P024_Palindromo.vcxproj|solutionrelative:P024_Palindromo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\j0emi\\Desktop\\Amerike\\Fundamentos de Programacion 2024 Ago-Dic\\Proyectos\\P024_Palindromo\\P024_Palindromo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:P024_Palindromo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "P024_Palindromo.cpp",
-              "DocumentMoniker": "C:\\Users\\ALUMNO\\Desktop\\NoMeBorresPorfis\\F_Programacion_zap1216_25-1\\P024_Palindromo\\P024_Palindromo.cpp",
+              "DocumentMoniker": "C:\\Users\\j0emi\\Desktop\\Amerike\\Fundamentos de Programacion 2024 Ago-Dic\\Proyectos\\P024_Palindromo\\P024_Palindromo.cpp",
               "RelativeDocumentMoniker": "P024_Palindromo.cpp",
-              "ToolTip": "C:\\Users\\ALUMNO\\Desktop\\NoMeBorresPorfis\\F_Programacion_zap1216_25-1\\P024_Palindromo\\P024_Palindromo.cpp",
+              "ToolTip": "C:\\Users\\j0emi\\Desktop\\Amerike\\Fundamentos de Programacion 2024 Ago-Dic\\Proyectos\\P024_Palindromo\\P024_Palindromo.cpp",
               "RelativeToolTip": "P024_Palindromo.cpp",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBMAAAAOAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-02T14:20:18.523Z",
               "EditorCaption": ""
