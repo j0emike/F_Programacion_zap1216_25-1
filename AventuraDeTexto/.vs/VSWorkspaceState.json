@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\AventuraDeTexto"
   ],
-  "SelectedNode": "\\AventuraDeTexto.sln",
+  "SelectedNode": "\\AventuraDeTexto\\AventuraDeTexto.cpp",
   "PreviewInSolutionExplorer": false
 }

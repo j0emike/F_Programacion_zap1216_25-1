@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\j0emi\\Desktop\\Amerike\\Fundamentos de Programacion 2024 Ago-Dic\\Proyectos\\AventuraDeTexto\\",
+  "WorkspaceRootPath": "C:\\Users\\ALUMNO\\Desktop\\NOBORRARPLS\\F_Programacion_zap1216_25-1\\AventuraDeTexto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{917266EF-1E5A-4007-BFEC-256901C8A905}|AventuraDeTexto\\AventuraDeTexto.vcxproj|C:\\Users\\j0emi\\Desktop\\Amerike\\Fundamentos de Programacion 2024 Ago-Dic\\Proyectos\\AventuraDeTexto\\AventuraDeTexto\\AventuraDeTexto.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{917266EF-1E5A-4007-BFEC-256901C8A905}|AventuraDeTexto\\AventuraDeTexto.vcxproj|C:\\Users\\ALUMNO\\Desktop\\NOBORRARPLS\\F_Programacion_zap1216_25-1\\AventuraDeTexto\\AventuraDeTexto\\AventuraDeTexto.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{917266EF-1E5A-4007-BFEC-256901C8A905}|AventuraDeTexto\\AventuraDeTexto.vcxproj|solutionrelative:AventuraDeTexto\\AventuraDeTexto.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "AventuraDeTexto.cpp",
-              "DocumentMoniker": "C:\\Users\\j0emi\\Desktop\\Amerike\\Fundamentos de Programacion 2024 Ago-Dic\\Proyectos\\AventuraDeTexto\\AventuraDeTexto\\AventuraDeTexto.cpp",
+              "DocumentMoniker": "C:\\Users\\ALUMNO\\Desktop\\NOBORRARPLS\\F_Programacion_zap1216_25-1\\AventuraDeTexto\\AventuraDeTexto\\AventuraDeTexto.cpp",
               "RelativeDocumentMoniker": "AventuraDeTexto\\AventuraDeTexto.cpp",
-              "ToolTip": "C:\\Users\\j0emi\\Desktop\\Amerike\\Fundamentos de Programacion 2024 Ago-Dic\\Proyectos\\AventuraDeTexto\\AventuraDeTexto\\AventuraDeTexto.cpp",
-              "RelativeToolTip": "AventuraDeTexto\\AventuraDeTexto.cpp",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAAAGsAAAAFAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ALUMNO\\Desktop\\NOBORRARPLS\\F_Programacion_zap1216_25-1\\AventuraDeTexto\\AventuraDeTexto\\AventuraDeTexto.cpp*",
+              "RelativeToolTip": "AventuraDeTexto\\AventuraDeTexto.cpp*",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAAAKEAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-29T00:57:23.97Z",
               "EditorCaption": ""

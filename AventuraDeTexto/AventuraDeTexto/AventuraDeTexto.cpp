@@ -11,8 +11,8 @@ bool haHabladoConTabernero = false;
 bool haHabladoConHombreBorracho = false;
 bool haHabladoConMesera = false;
 bool haIdoAlBanio = false;
-int inventario = 0; // 0: ninguno, 1: cerveza, 2: alitas con salsa BBQ
-int dinero = 100;   // Cantidad de dinero que tiene Jhon
+int inventario = 0; // 0: nada, 1: cerveza, 2: alitas con salsa BBQ
+int dinero = 75;   
 
 // Función para hablar con el tabernero
 void hablarConTabernero() {
@@ -124,8 +124,13 @@ void irAlBanio() {
 }
 
 int main() {
-    int eleccion;
-
+    int eleccion, repeticion;
+    do
+    {
+        haHabladoConTabernero = false;
+        haHabladoConHombreBorracho = false;
+        haHabladoConMesera = false;
+        haIdoAlBanio = false;
     cout << "Bienvenido a la cantina. Eres Jhon, y tienes que decidir que hacer." << endl;
 
     while (!haIdoAlBanio) {
@@ -154,7 +159,10 @@ int main() {
             cout << "Opción no válida. Inténtalo de nuevo." << endl;
         }
     }
-
-    return 0;
+    system("pause");
+    system("cls");
+    cout << "Deseas repetir la historia?" << endl << "0. No     1. Si" << endl;
+    cin >> repeticion;
+    } while (repeticion != 0);
 }
 
