@@ -26,7 +26,7 @@ int main()
 {
 	std::string palindroma;
 	std::cout << "Dame una palabra y te dire si es palindroma." << std::endl;
-	getline(std::cin,palindroma);
+	std::getline(std::cin >> std::ws, palindroma);
 	if (palindromo(palindroma) == true) {
 		std::cout << "Tu palabra es palindroma." << std::endl;
 	}
